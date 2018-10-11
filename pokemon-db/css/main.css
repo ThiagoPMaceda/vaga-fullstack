@@ -1,0 +1,13 @@
+body{
+  font-family: 'Niramit', sans-serif;
+}
+
+
+.stats{
+  text-align: justify;
+  padding-bottom: 3rem;
+  margin: 0 auto;
+  font-size: 3em;
+  font-weight: bold;
+  color:red;
+}
